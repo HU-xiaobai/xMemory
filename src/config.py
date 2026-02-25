@@ -15,7 +15,7 @@ class MemoryConfig:
     storage_path: str = "./memories"
     
     # === Model Configuration ===
-    llm_model: str = 'meta-llama/Meta-Llama-3.1-8B-Instruct' #'Qwen/Qwen3-8B'  #"meta-llama/Meta-Llama-3.1-8B-Instruct" #"google/gemma-3-12b-it" # need to change here! each time change to new model!
+    llm_model: str = 'meta-llama/Meta-Llama-3.1-8B-Instruct'
     embedding_model: str = "text-embedding-3-small"
     embedding_dimension: int = 1536
     
@@ -63,7 +63,7 @@ class MemoryConfig:
     # === Vector Database Configuration ===
     vector_db_type: str = "chroma"              # Vector database type: "chroma"
     chroma_persist_directory: str = "./chroma_db"  # ChromaDB persistence directory
-    chroma_collection_prefix: str = "nemori"    # ChromaDB collection name prefix
+    chroma_collection_prefix: str = "xMemory"    # ChromaDB collection name prefix
     
     # === Performance Configuration ===
     batch_size: int = 32                        # Batch size
