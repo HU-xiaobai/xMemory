@@ -1,7 +1,7 @@
 # xMemory
 
 # 📢 News
-[2026-09-26]: 🎉🎉🎉 [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) has been accepted by NeurIPS 2026!
+[2026-09-24]: 🎉🎉🎉 [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007) has been accepted by NeurIPS 2026!
 
 ## Introduction
 
