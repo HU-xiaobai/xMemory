@@ -2,10 +2,10 @@
 
 ## Introduction
 
-This repository accompanies our arxiv 2026.02 paper: 
+This repository accompanies our NeurIPS 2026 paper! 
 
 **Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation**  
-Zhanghao Hu, Qinglin Zhu, Hanqi Yan, Yulan He, Lin Gui  
+Zhanghao Hu, Qinglin Zhu, Run Congzhao, Di Liang, Hanqi Yan, Yulan He, Lin Gui  
 
 📄 [Paper on Huggingface](https://huggingface.co/papers/2602.02007) | 📄 [arXiv Preprint](https://arxiv.org/abs/2602.02007) 🔥[Project Page](https://zhanghao-xmemory.github.io/Academic-project-page-template/)
 
